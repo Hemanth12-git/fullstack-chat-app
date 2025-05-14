@@ -1,8 +1,18 @@
-# ✨ Full Stack Realtime Chat App ✨
+## 📸 Glimpses of the App
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+### 🔐 Login Page
+![Login](./public/Login.png)
 
-[Video Tutorial on Youtube](https://youtu.be/ntKkVrQqBYY)
+### 💬 Chat Interface
+![Chat](./public/Msg.png)
+
+### 🚀 Various Themes
+![Themes](./public/theme.png)
+
+### 🚀 Profile
+![Profile](./public/profile.png)
+
+
 
 Highlights:
 
@@ -12,8 +22,6 @@ Highlights:
 - 🚀 Online user status
 - 👌 Global state management with Zustand
 - 🐞 Error handling both on the server and on the client
-- ⭐ At the end Deployment like a pro for FREE!
-- ⏳ And much more!
 
 ### Setup .env file
 
